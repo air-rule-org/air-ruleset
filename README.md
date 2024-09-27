@@ -1,1 +1,1 @@
-Surgio 个人定制 air rule 列表
+Surgio 个人定制 air ruleset 列表
