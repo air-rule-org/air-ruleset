@@ -1,5 +1,10 @@
 
 # > Company001 白名单
-DOMAIN-SUFFIX,feishu.com
+## 飞书
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,feishupkg.com
+
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,mydidadi.com
