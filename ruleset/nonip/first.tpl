@@ -14,6 +14,7 @@ SRC-IP,10.0.0.22,{{ default_rule }}
 # > Orb
 PROCESS-NAME,/Applications/OrbStack.app/Contents/Frameworks/OrbStack Helper.app/Contents/MacOS/OrbStack Helper,{{ default_rule }}
 
+DOMAIN-SUFFIX,test-ipv6.com,{{ default_rule }}
 
 
 # > 客户端
