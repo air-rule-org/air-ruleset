@@ -1,6 +1,7 @@
 
 # > Company001 白名单
 ## 字节跳动
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,2333333333333.com
 DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,activity-zhendingtech.com
