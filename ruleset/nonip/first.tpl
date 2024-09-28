@@ -7,7 +7,14 @@ DOMAIN,myip4.ipip.net,{{ default_rule }}
 
 # > Subscription
 DOMAIN-SUFFIX,phwplx.lol,{{ default_rule }}
-DOMAIN-SUFFIX,tagsssubscribe.com,{{ default_rule }}
+
+# > PT
+SRC-IP,10.0.0.22,{{ default_rule }}
+
+# > Orb
+PROCESS-NAME,/Applications/OrbStack.app/Contents/Frameworks/OrbStack Helper.app/Contents/MacOS/OrbStack Helper,{{ default_rule }}
+
+
 
 # > 客户端
 # > Proxy
