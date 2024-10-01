@@ -1,6 +1,3 @@
-
-# > Company001 白名单
-## 字节跳动
-DOMAIN-SUFFIX,snssdk.com
-## 滴答滴
 DOMAIN-SUFFIX,mydidadi.com
+DOMAIN-SUFFIX,moonshot.cn
+DOMAIN-SUFFIX,amz123.com
